@@ -1,0 +1,5 @@
+{"Blue": 505, "Cyan": 405, "Orange": 501, "Pink": 484, "Purple": 527, "Red": 443, "Yellow": 535}
+{"Alien": 641, "Ghost": 810, "Normal": 1002, "Zombie": 947}
+{"Black Aviator Sunglasses": 622, "Squared Gold Glasses": 624, "Monocle": 364, "None": 650, "Thug Life Glasses": 523, "Rounded Yellow Shades": 617}
+{"Bunny Ears": 316, "Cowboy Hat": 363, "Fedora": 408, "Graduation Hat": 302, "None": 429, "Pirate Hat": 386, "Mexican Sombrero Hat": 347, "Top Hat": 440, "Witch Hat": 409}
+{"Frown": 1218, "Neutral": 808, "Smile": 1374}
